@@ -1,4 +1,4 @@
-# AIN 212 Project
+# Country Development Classification
 
 Bengü Barış Balkan - 2200765011
 
